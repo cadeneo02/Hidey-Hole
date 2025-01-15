@@ -1,4 +1,4 @@
-# hidey_hole
+# Hidey_Hole
 -Game developed with team of three, player locates hidden circle on screen with progressive play difficulty. Here is the code for the game:
 
     from graphics import * 
